@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/javier7-52/osTicket-Installation-Configuration.git)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory with Azure VMs]()
+  - [Configuring On-premises Active Directory with Azure VMs](https://github.com/javier7-52/Active-Directory-User-Creation.git)
 
 <h2>🤳Connect with me:</h2>
 
